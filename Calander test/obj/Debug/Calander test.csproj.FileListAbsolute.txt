@@ -1,0 +1,31 @@
+D:\My Work\Testing Projects\Calander test\Calander test\bin\Calander test.dll
+D:\My Work\Testing Projects\Calander test\Calander test\bin\Calander test.pdb
+D:\My Work\Testing Projects\Calander test\Calander test\bin\Microsoft.Web.Infrastructure.dll
+D:\My Work\Testing Projects\Calander test\Calander test\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\My Work\Testing Projects\Calander test\Calander test\bin\Newtonsoft.Json.dll
+D:\My Work\Testing Projects\Calander test\Calander test\bin\System.Net.Http.dll
+D:\My Work\Testing Projects\Calander test\Calander test\bin\System.Net.Http.Formatting.dll
+D:\My Work\Testing Projects\Calander test\Calander test\bin\System.Net.Http.WebRequest.dll
+D:\My Work\Testing Projects\Calander test\Calander test\bin\System.Web.Helpers.dll
+D:\My Work\Testing Projects\Calander test\Calander test\bin\System.Web.Http.dll
+D:\My Work\Testing Projects\Calander test\Calander test\bin\System.Web.Http.WebHost.dll
+D:\My Work\Testing Projects\Calander test\Calander test\bin\System.Web.Mvc.dll
+D:\My Work\Testing Projects\Calander test\Calander test\bin\System.Web.Razor.dll
+D:\My Work\Testing Projects\Calander test\Calander test\bin\System.Web.WebPages.Deployment.dll
+D:\My Work\Testing Projects\Calander test\Calander test\bin\System.Web.WebPages.dll
+D:\My Work\Testing Projects\Calander test\Calander test\bin\System.Web.WebPages.Razor.dll
+D:\My Work\Testing Projects\Calander test\Calander test\bin\Newtonsoft.Json.xml
+D:\My Work\Testing Projects\Calander test\Calander test\bin\System.Net.Http.xml
+D:\My Work\Testing Projects\Calander test\Calander test\bin\System.Net.Http.Formatting.xml
+D:\My Work\Testing Projects\Calander test\Calander test\bin\System.Net.Http.WebRequest.xml
+D:\My Work\Testing Projects\Calander test\Calander test\bin\System.Web.Helpers.xml
+D:\My Work\Testing Projects\Calander test\Calander test\bin\System.Web.Http.xml
+D:\My Work\Testing Projects\Calander test\Calander test\bin\System.Web.Http.WebHost.xml
+D:\My Work\Testing Projects\Calander test\Calander test\bin\System.Web.Mvc.xml
+D:\My Work\Testing Projects\Calander test\Calander test\bin\System.Web.Razor.xml
+D:\My Work\Testing Projects\Calander test\Calander test\bin\System.Web.WebPages.xml
+D:\My Work\Testing Projects\Calander test\Calander test\bin\System.Web.WebPages.Deployment.xml
+D:\My Work\Testing Projects\Calander test\Calander test\bin\System.Web.WebPages.Razor.xml
+D:\My Work\Testing Projects\Calander test\Calander test\obj\Debug\Calander test.csprojResolveAssemblyReference.cache
+D:\My Work\Testing Projects\Calander test\Calander test\obj\Debug\Calander test.dll
+D:\My Work\Testing Projects\Calander test\Calander test\obj\Debug\Calander test.pdb

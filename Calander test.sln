@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calander test", "Calander test\Calander test.csproj", "{8A512FD4-CED3-472E-B47C-84BD7ACDCD71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calander test.Tests", "Calander test.Tests\Calander test.Tests.csproj", "{8A854F73-BEAC-4317-B59D-4394A7F920DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A512FD4-CED3-472E-B47C-84BD7ACDCD71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A512FD4-CED3-472E-B47C-84BD7ACDCD71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A512FD4-CED3-472E-B47C-84BD7ACDCD71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A512FD4-CED3-472E-B47C-84BD7ACDCD71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A854F73-BEAC-4317-B59D-4394A7F920DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A854F73-BEAC-4317-B59D-4394A7F920DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A854F73-BEAC-4317-B59D-4394A7F920DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A854F73-BEAC-4317-B59D-4394A7F920DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
